@@ -1,0 +1,23 @@
+{
+     "defaults":
+     {
+         "colours":
+         {
+            "dark_bg":"#45494e,#65696e,90"
+         }
+     },
+     "#buttom":
+     {
+       "colors":
+       {
+         "dark_bg":"#45494e,#65696e,90"
+       }
+     },
+     "fish":
+     {
+       "colors":
+       {
+         "normal_bg": "#FFD300"
+       }
+     }
+}
