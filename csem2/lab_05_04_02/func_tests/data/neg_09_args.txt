@@ -1,0 +1,1 @@
+ft ./pos_01_in.txt pony

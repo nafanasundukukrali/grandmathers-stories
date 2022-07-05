@@ -1,0 +1,1 @@
+/home/alina/c/testgit2/lab_05_02_04/func_tests/data/neg_08_in.txt

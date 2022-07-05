@@ -1,0 +1,1 @@
+Error: there are zero prime numbers elements

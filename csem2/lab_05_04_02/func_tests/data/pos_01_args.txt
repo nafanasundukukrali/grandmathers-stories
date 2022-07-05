@@ -1,0 +1,1 @@
+st /media/sf_Transfer/testgit2/lab_05_04_02/func_tests/data/pos_01_in.txt /media/sf_Transfer/testgit2/lab_05_04_02/func_tests/pos_01_res.txt
